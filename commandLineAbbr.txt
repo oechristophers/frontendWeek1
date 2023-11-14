@@ -1,0 +1,16 @@
+touch sososo to create file
+cd to change directories
+File is not a directory
+git init to initialize git in a directory
+git add . to add to git
+git commit-m "message.."
+
+Commit messages 
+A Feat
+A conventional commuit, when there is a feature etc
+
+A fix
+To change a problem
+
+A Style
+Indicating style changes
